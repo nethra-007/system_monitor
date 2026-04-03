@@ -17,6 +17,10 @@ A simple Python-based system monitoring script that displays CPU, memory, and di
 3. Run:
    python system_monitor.py
 
+ ## 🎯 Use Case
+- Useful for basic system monitoring
+- Helps beginners understand OS-level commands
+
 ## 📚 Learning Outcome
 - Understanding system-level commands
 - Interaction between Python and OS
